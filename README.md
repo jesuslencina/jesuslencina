@@ -1,8 +1,6 @@
 # Jesus Lencina ⭐
-
-### Frontend dev
  
- ![Portfolio screesnhot](https://i.imgur.com/bdOQ51n.png)
+ ![Portfolio screesnhot](https://i.imgur.com/VKvnEeI.jpg)
  
 #### 💼 [VISIT MY WEB PORTFOLIO](https://jesuslencina.github.io/)
  
