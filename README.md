@@ -1,16 +1,34 @@
-### Hi there 👋
+# Jesus Lencina ⭐
 
-<!--
-**jesuslencina/jesuslencina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend dev
+ 
+ ![Portfolio screesnhot](https://i.imgur.com/bdOQ51n.png)
+ 
+#### 💼 [VISIT MY WEB PORTFOLIO](https://jesuslencina.github.io/)
+ 
+#### STACK:
 
-Here are some ideas to get you started:
+📃 HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 CSS + SASS
+
+⚡ JAVASCRIPT
+
+⚛️ REACT 
+
+
+
+#### LIBRARIES
+
+🖼️ STYLED COMPONENTS
+
+🔗 REACT ROUTER 
+
+
+
+#### CONTACT:
+
+ <div>
+ <img src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" width=18> <a href="https://www.linkedin.com/in/jesuslencina/">Jesus Lencina</a>
+ </div>
+
