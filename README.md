@@ -4,7 +4,7 @@
  
 ## 💼 [VISIT MY WEB PORTFOLIO](https://jesuslencina.github.io/)
  
-#### STACK:
+#### STACK
 
 📃 HTML
 
@@ -24,7 +24,7 @@
 
 
 
-#### CONTACT:
+#### CONTACT
 
  <div>
  <img src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" width=18> <a href="https://www.linkedin.com/in/jesuslencina/">Jesus Lencina</a>
